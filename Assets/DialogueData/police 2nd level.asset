@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 940b3d01919de344eb652857d23b311c, type: 3}
+  m_Name: police 2nd level
+  m_EditorClassIdentifier: 
+  dialogue:
+  - HEY, GET OFF THE ROAD NOW KIDDO! IT ISN'T SAFE!
+  responses:
+  - responseText: I am lost!
+    dialogueObject: {fileID: 11400000, guid: a57066c2dd1e82f4f9f2ee2c2e12b83e, type: 2}

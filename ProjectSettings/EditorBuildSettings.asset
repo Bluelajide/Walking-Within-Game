@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: 9c89bce7aea55ef4da4ae17bc260ef8b
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: 86328154939d5df4da236ac1e833a57c
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 1d17e0a6d96d19149a77c547df512eff
+  - enabled: 1
+    path: Assets/Scenes/Levels Menu.unity
+    guid: d45d48c895becd845a8b7cbe9dbcf4bd
+  - enabled: 1
+    path: Assets/Scenes/Walkable Level.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Unwalkable Level.unity
+    guid: c9f70d0a297bcce4e828d2dc6db83033
+  - enabled: 1
+    path: Assets/Scenes/GameOverPortal.unity
+    guid: f6a9a247d0afcdf46a1ecd0b97a2985b
+  - enabled: 1
+    path: Assets/Scenes/Win Screen.unity
+    guid: cbdd31a16365edf43987a1b3744caa3c
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: deee20ad9e01ea84c85753b1dca4df8d
+  m_configObjects: {}
